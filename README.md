@@ -1,29 +1,74 @@
-# Développeur Full Stack JavaScript : Back-End & Front-End
+<h1 align="center">Salut, moi c'est Nicolas 👋</h1>
 
-Bonjour ! Je suis Nicolas, un développeur passionné qui se concentre sur le développement web et la programmation. J'ai une solide expérience dans le développement back-end et front-end, et je m'efforce constamment de progresser dans le monde en constante évolution de la technologie.
+<p align="center">
+  Développeur Web et Web Mobile (titre professionnel) 🎓<br>
+  Je transforme des idées en applis qui tournent vraiment ⚙️
+</p>
 
-## Compétences clés
+---
 
-### Développement Web Back-End
+## 🧑‍💻 En deux mots
 
-- Langages et Frameworks: Je maîtrise JavaScript et Node.js, ainsi que le framework ExpressJS pour la création d'applications robustes.
-- API: J'ai de l'expérience dans la création et la gestion d'API REST, ainsi que dans l'utilisation d'outils tels que Insomnia et Thunder Client pour les tests.
-- API: J'ai des connaissances en GraphQL pour concevoir des API flexibles et efficaces.
-- Gestion de Bases de Données: J'ai travaillé avec PostgreSQL, pgAdmin et Strapi (CMS) pour la gestion de bases de données relationnelles. J'ai également utilisé MongoDB pour des solutions NoSQL.
-- ORM: J'ai utilisé les bibliothèques Mongoose et Sequelize pour simplifier la gestion des bases de données et des opérations liées.
+```js
+const nicolas = {
+  titre: "Développeur Web et Web Mobile",
+  base: "JavaScript / Node.js",
+  terrainDeJeu: ["API", "bases de données", "automatisation"],
+  carburant: ["café", "curiosité", "console.log()"],
+  devise: "Si ça marche pas, c'est qu'il manque un point-virgule",
+}
+```
 
-Sécurité: J'ai utilisé des solutions comme JWT (Json Web Token) pour renforcer la sécurité des applications que j'ai développées.
+## 🛠️ Ma boîte à outils
 
-### Développement Web Front-End
+### Back-End
 
-- Langages et Frameworks: Je suis à l'aise avec HTML, CSS (SASS/SCSS) et JavaScript pour créer des interfaces utilisateur conviviales.
-- Bibliothèques et Frameworks: J'ai de l'expérience avec React pour créer des expériences interactives et réactives.
-- Templates: J'ai utilisé Embedded JavaScript (EJS) pour créer des rendus dynamiques et adaptables.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### Collaboration et Outils
+### Front-End
 
-- Gestion de Versions: Je suis familier avec Git et GitHub, ce qui me permet de collaborer efficacement sur des projets.
-- Tests et Qualité de Code: J'adhère aux pratiques de TDD (Test-Driven Development) et de TU (Tests Unitaires) pour maintenir la qualité du code.
-- Big Data: J'ai des connaissances en concepts liés au Big Data pour aborder des projets à grande échelle de manière plus informée.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
 
-Je suis constamment en quête de nouvelles opportunités de collaboration et de projets passionnants. Mon objectif est de contribuer à des projets innovants en apportant mes compétences techniques et ma créativité. Si vous souhaitez travailler ensemble ou discuter de la technologie, n'hésitez pas à me contacter.
+### Bases de données
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white)
+
+### Outils et intégrations
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive%20API-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+
+## 🚀 Ce que j'aime construire
+
+- 🔌 **Des connecteurs d'API** : j'ai notamment développé un gros connecteur Google Drive en C#
+- 🧩 **Des scripts et des automatisations** qui font gagner du temps à tout le monde
+- 🗄️ **Des requêtes SQL** qui sortent exactement les bonnes données
+- 📊 **Des tableaux de bord** pour rendre les chiffres lisibles
+- 🌐 **Des interfaces web** simples et agréables à utiliser
+
+## 🧪 Ma façon de bosser
+
+- ✅ Du code propre, testé, que l'on comprend six mois plus tard
+- 🔐 La sécurité dès le départ (JWT, rôles, droits d'accès)
+- 📝 De la doc claire, même pour ceux qui ne codent pas
+- 🤖 L'IA comme copilote, jamais comme pilote automatique
+
+## 📫 Parlons-en
+
+Un projet, une idée ou juste l'envie de discuter tech ? N'hésite pas à me contacter, je réponds toujours avec plaisir 😄
